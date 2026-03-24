@@ -1,6 +1,7 @@
 # Hi, I'm Chamupathi 👋
 
 🎓 BSc Computer Science · Year 1 @ University of Westminster, London  
+🎓 BSc Electronics and Embeded Systems . Year 1 @ University of Sri Jayawardanapura, Sri Lanka
 💻 Building for impact — currently developing an SDG Goal 3 Health website  
 🔍 Open to part-time developer roles
 
