@@ -68,7 +68,7 @@ A web platform improving access to health information, built with React, Node.js
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamupathiD&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
-> **Note:** If the cards above don't load, the shared Vercel instance is likely rate-limited. Deploy your own free copy at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the URL — takes 2 minutes and fixes it permanently.
+
 
 ---
 
