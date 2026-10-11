@@ -4,7 +4,7 @@
 <p align="center">
   🎓 BSc Computer Science, Year 2 — University of Westminster, London<br/>
   🎓 BSc Electronics & Embedded Systems, Year 1 — University of Sri Jayewardenepura, Sri Lanka<br/>
-  🩺 Currently building a health-access platform aligned with <b>UN SDG 3</b><br/>
+  🩺 Currently building a entranance assistant robot with matchine learning and ai vision<br/>
   🟢 Open to part-time / internship developer roles
 </p>
 
