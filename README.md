@@ -1,80 +1,130 @@
-<h1 align="center">Hi, I'm Chamupathi 👋</h1>
-<h3 align="center">Full-Stack Developer · Building tech that solves real problems</h3>
-
+<!-- Header -->
 <p align="center">
-  🎓 BSc Computer Science, Year 2 — University of Westminster, London<br/>
-  🎓 BSc Electronics & Embedded Systems, Year 1 — University of Sri Jayewardenepura, Sri Lanka<br/>
-  🩺 Currently building a entranance assistant robot with matchine learning and ai vision<br/>
-  🟢 Open to part-time / internship developer roles
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:3b82f6&height=160&section=header&text=Chamupathi%20Dewdunu&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Robotics%20%7C%20AI%20Vision%20%7C%20Full-Stack%20Systems&descSize=16&descAlignY=68&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chamupathi-dewdunu-583419243/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:chamupathidewdunu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 👨‍💻 About Me
-
-I'm a Computer Science student studying **two parallel degrees** — software (Westminster) and electronics/embedded systems (Sri Jayewardenepura) — which means I care about how software runs as much as how it's written.
-
-Right now I'm building a **web platform for SDG 3 (Good Health & Well-being)**, focused on making health information and resources more accessible. I work across the stack: React/Node on the frontend and backend, SQL for data, and I'm growing into applied ML for smarter health-recommendation features.
-
-I like projects with a real user at the end of them — not just portfolio filler.
-
----
-
-### 🚀 Featured Project
-
-**SDG 3 — Health & Well-being Platform**
-A web platform improving access to health information, built with React, Node.js, and SQL, aligned with the UN's Sustainable Development Goals.
-`→ add repo link here once public`
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Web**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Emerging Interests**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-000000?style=flat-square&logo=arduino&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChamupathiD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamupathiD&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="41%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Co-Founder+%40+CYNOCOR;Building+CynoBot+%26+Cynox+AI;Bridging+AI+software+and+physical+hardware;Open+to+robotics%2C+AI+and+full-stack+roles" alt="Typing intro"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamupathiD&theme=tokyonight&hide_border=true" width="49%"/>
+  <a href="https://www.linkedin.com/in/chamupathi-dewdunu-583419243/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3b82f6"/></a>
+  <a href="https://cynocor.com"><img src="https://img.shields.io/badge/CYNOCOR-0d1117?style=for-the-badge&logo=vercel&logoColor=3b82f6"/></a>
+  <a href="mailto:chamupathidewdunu@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=3b82f6"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ChamupathiD&style=for-the-badge&color=3b82f6&label=PROFILE+VIEWS"/>
 </p>
 
+<br/>
 
+## About
 
----
+```python
+class Chamupathi:
+    role      = "Co-Founder @ CYNOCOR"
+    education = [
+        "BSc (Hons) Computer Science — IIT / University of Westminster  (Year 2)",
+        "BSc Electronics & Embedded Systems — Univ. of Sri Jayewardenepura  (Year 1)",
+    ]
+    focus     = ["Human-robot interaction", "Computer vision", "Embedded systems", "Kiosk UIs"]
+    building  = "CynoBot — an interactive entrance assistant robot"
+    status    = "Open to robotics, AI and full-stack collaborations"
+```
 
-### 📫 Let's Connect
+I work across the full stack of a physical product — from 3D-printed assemblies and microcontroller circuits to computer vision models and the touch interfaces people actually use. Two parallel degrees, one goal: systems that hold up in the real world, not just in a notebook.
 
-Open to part-time developer roles, collaboration on health-tech / social-impact projects, or just talking shop about full-stack + embedded systems.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamupathi-dewdunu-583419243/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chamupathidewdunu@gmail.com)
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>CynoBot &amp; Cynox AI</h3>
+      <sub><code>ACTIVE</code> &nbsp;·&nbsp; CYNOCOR</sub>
+      <p>An interactive entrance assistant robot combining embedded hardware, AI vision and conversational intelligence.</p>
+      <ul>
+        <li><b>Cynox AI</b> — conversational engine with smart mode-switching and a dedicated English voice model</li>
+        <li><b>Expressive hardware</b> — 3D-printed head with animated face display and a chest particle visualisation screen</li>
+        <li><b>Kiosk experience</b> — locked-down touch and voice games for visitors</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3b82f6"/>
+        <img src="https://img.shields.io/badge/Computer_Vision-161b22?style=flat-square&logo=opencv&logoColor=3b82f6"/>
+        <img src="https://img.shields.io/badge/Embedded-161b22?style=flat-square&logo=espressif&logoColor=3b82f6"/>
+        <img src="https://img.shields.io/badge/Kiosk_UI-161b22?style=flat-square&logo=html5&logoColor=3b82f6"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>BioMotion Studio</h3>
+      <sub><code>RECOGNISED BY INTEL REALSENSE</code></sub>
+      <p>A real-time biomechanics analysis platform that turns depth-camera input into joint-level motion insight.</p>
+      <ul>
+        <li><b>Depth capture</b> — Intel RealSense D435 for 3D body tracking</li>
+        <li><b>Pose estimation</b> — MediaPipe Pose with OpenCV processing</li>
+        <li><b>Desktop app</b> — PyQt6 interface for live analysis and review</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/RealSense-161b22?style=flat-square&logo=intel&logoColor=3b82f6"/>
+        <img src="https://img.shields.io/badge/MediaPipe-161b22?style=flat-square&logo=google&logoColor=3b82f6"/>
+        <img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=3b82f6"/>
+        <img src="https://img.shields.io/badge/PyQt6-161b22?style=flat-square&logo=qt&logoColor=3b82f6"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## Stack
+
+<table>
+  <tr>
+    <td width="160"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,cpp,java,js,mysql&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td><b>AI · Vision · Robotics</b></td>
+    <td><img src="https://skillicons.dev/icons?i=opencv,tensorflow,arduino,blender&theme=dark"/> &nbsp;<sub>+ ESP32, MediaPipe, RealSense</sub></td>
+  </tr>
+  <tr>
+    <td><b>Web &amp; Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,html,css,cloudflare&theme=dark"/></td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark"/></td>
+  </tr>
+</table>
+
+<br/>
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChamupathiD&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChamupathiD&layout=compact&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&cache_seconds=86400" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChamupathiD&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChamupathiD&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true" width="100%"/>
+</p>
+
+<br/>
+
+## Connect
+
+Always open to talking robotics, AI vision, embedded systems or full-stack engineering.
+
+<p>
+  <a href="https://www.linkedin.com/in/chamupathi-dewdunu-583419243/">LinkedIn</a> &nbsp;/&nbsp;
+  <a href="https://cynocor.com">cynocor.com</a> &nbsp;/&nbsp;
+  <a href="mailto:chamupathidewdunu@gmail.com">chamupathidewdunu@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:0d1117&height=6&section=footer" width="100%"/>
+</p>
